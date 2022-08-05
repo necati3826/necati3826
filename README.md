@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Salesforce Developer Projects:</h2>
 
-- <b>Salesforce Trigger Projects (AlgoExpert)</b>
+- <b>Salesforce Trigger Projects</b>
   - [Custom Rollup Trigger Between Account&Contact](https://github.com/necati3826/Salary__c-Rollup-Trigger-Account-Contact)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
