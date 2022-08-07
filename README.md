@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Salesforce Developer Projects:</h2>
 
+- <b>Salesforce Projects</b>
+  - [Automated Maintenance Call Service](https://github.com/necati3826/Automated-Maintenance-Call-Service-Project)
 - <b>Salesforce Trigger Projects</b>
-  - [Custom Rollup Trigger Between Account&Contact](https://github.com/necati3826/Salary__c-Rollup-Trigger-Account-Contact)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Custom Rollup Trigger Between Account&Contact](https://github.com/necati3826/Salary__c-Rollup-Trigger-Account-Contact)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
